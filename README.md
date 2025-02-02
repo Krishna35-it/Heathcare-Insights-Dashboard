@@ -1,4 +1,7 @@
 # Heathcare-Insights-Dashboard
+A Streamlit-based interactive dashboard for healthcare data analysis.
+
+
 **Overview**:
 The Healthcare Insights Dashboard provides interactive visualizations and data-driven insights to help hospitals track patient admissions, discharges, facility usage, and more.
 
